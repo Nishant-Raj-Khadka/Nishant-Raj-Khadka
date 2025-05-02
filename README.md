@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishant-Raj-Khadka
-- 👀 I’m interested in dotNet..C#.
+- 👀 I’m interested in frontend and backend 
 - 🌱 I’m currently learning ..
 - 📫 How to reach me .
 - https://www.instagram.com/_nishant_k?igsh=MTc0eTEzd2RlNnZoeQ==
